@@ -13,10 +13,15 @@
     "typescript": "^5.0.0"
   },
   "devDependencies": {
-    "vite": "^4.4.0",
-    "@types/node": "^20.0.0"
+    "@types/node": "^20.0.0",
+    "vite": "^6.3.5"
   },
-  "keywords": ["stock", "finance", "typescript", "web-app"],
+  "keywords": [
+    "stock",
+    "finance",
+    "typescript",
+    "web-app"
+  ],
   "author": "EzMoney",
   "license": "MIT"
 }
