@@ -1,0 +1,5 @@
+- Always use DateTime or similar structures for date and time handling.
+- Prefer using environment variables for configuration values (e.g., API keys).
+- Use TypeScript interfaces for defining data structures.
+- Implement error handling for API requests to manage rate limits and invalid responses.
+- Try to generate tests for APIs and critical functions to ensure reliability.
